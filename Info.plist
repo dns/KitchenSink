@@ -4,7 +4,11 @@
 <dict>
 	<key>UIAppFonts</key>
 	<array>
+<<<<<<< HEAD
 		<string>comic_zine_ot.otf</string>
+=======
+		<string>etc/comic_zine_ot.otf</string>
+>>>>>>> 91d0f5c869ea0908d2c4e86e1843770749571349
 	</array>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>English</string>
@@ -27,10 +31,19 @@
 			<key>CFBundleURLSchemes</key>
 			<array>
 				<string>kitchensink</string>
+<<<<<<< HEAD
 				<string>fb134793934930</string>
 			</array>
 		</dict>
 	</array>
+=======
+				<string>fb495338853813822</string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundleShortVersionString</key>
+	<string>2.0</string>
+>>>>>>> 91d0f5c869ea0908d2c4e86e1843770749571349
 	<key>CFBundleIdentifier</key>
 	<string>com.appcelerator.titanium</string>
 	<key>CFBundleInfoDictionaryVersion</key>
@@ -62,5 +75,10 @@
 	<array>
 		<string>audio</string>
 	</array>
+<<<<<<< HEAD
+=======
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+>>>>>>> 91d0f5c869ea0908d2c4e86e1843770749571349
 </dict>
 </plist>

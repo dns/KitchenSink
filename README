@@ -1,9 +1,13 @@
 Welcome to your Appcelerator Titanium Mobile Project
 
+<<<<<<< HEAD
 
 
 
 
+=======
+This is tabbed application, consisting of multiple stacks of windows associated with tabs in a tab group.  A starting point for tab-based application with multiple top-level windows. Requires Titanium Mobile SDK 2.1.0+.
+>>>>>>> 91d0f5c869ea0908d2c4e86e1843770749571349
 
 ----------------------------------
 Stuff our legal folk make us say:
@@ -11,8 +15,15 @@ Stuff our legal folk make us say:
 Appcelerator, Appcelerator Titanium and associated marks and logos are 
 trademarks of Appcelerator, Inc. 
 
+<<<<<<< HEAD
 Titanium is Copyright (c) 2009 by Appcelerator, Inc. All Rights Reserved.
 
 Titanium is licensed under the Apache Public License (Version 2). Please
 see the LICENSE file for the full license.
 
+=======
+Titanium is Copyright (c) 2009-2012 by Appcelerator, Inc. All Rights Reserved.
+
+Titanium is licensed under the Apache Public License (Version 2). Please
+see the LICENSE file for the full license.
+>>>>>>> 91d0f5c869ea0908d2c4e86e1843770749571349

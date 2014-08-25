@@ -1,2 +1,11 @@
+<<<<<<< HEAD
 *.pyc
 tmp
+=======
+tmp
+build/*
+build.log
+.fastdev.lock
+.DS_Store
+._*
+>>>>>>> 91d0f5c869ea0908d2c4e86e1843770749571349
